@@ -7,19 +7,19 @@
 **How to Set Up & Run Database:**
 1. Install python for your device.
 2. Install pip through the command line:
-    1. Type - /*curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py*/
-    2. Type - /*python get-pip.py*/
+    1. Type - *curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py*
+    2. Type - *python get-pip.py*
 3. Install MySQL server, MySQL workbench, then set up the password for a server instance in the workbench.
 4. Install MySQL-python connector through the command line:
-    1. Type - /*pip install mysql-connector-python*/
+    1. Type - *pip install mysql-connector-python*
 5. Run "databaseSetup.py" through the command line (This file contains everything necessary to create the schema for the database and tables along with inserting some rows into the necessary tables):
-    1. Type - /*cd path/to/directory/containing/file*/
-    2. Type - /*python databaseSetup.py*/
+    1. Type - *cd path/to/directory/containing/file*
+    2. Type - *python databaseSetup.py*
 6. Install the sv_ttk package for tkinter through the command line (This is the package used by the source code to create the dark-themed modern GUI):
-    1. Type - /*pip install sv-ttk*/
+    1. Type - *pip install sv-ttk*
 7. Run "animeWatchlistApp.py" through the command line (This is the source code for the database application itself):
-    1. Type - /*cd path/to/directory/containing/file*/
-    2. Type - /*python animeWatchlistApp.py*/
+    1. Type - *cd path/to/directory/containing/file*
+    2. Type - *python animeWatchlistApp.py*
  
 
 **Future Work:**
