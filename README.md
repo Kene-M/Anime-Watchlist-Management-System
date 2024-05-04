@@ -18,8 +18,9 @@
 6. Install the sv_ttk package through the command line (This is a package that uses tkinter, and is used by the source code to create the dark-themed modern GUI):
     1. Type - *pip install sv-ttk*
 7. Run "animeWatchlistApp.py" through the command line (This is the source code for the database application itself):
-    1. Type - *cd path/to/directory/containing/file*
-    2. Type - *python animeWatchlistApp.py*
+    1. In line 21, change "yourpassword" to the password set for the MySQL server workbench. Check to ensure the "host" and "user" values correspond to the server being used.
+    2. Type - *cd path/to/directory/containing/file*
+    3. Type - *python animeWatchlistApp.py*
  
 
 **Future Work:**
