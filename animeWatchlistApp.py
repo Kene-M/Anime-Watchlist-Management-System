@@ -1,9 +1,9 @@
 """
-Author: Kenechukeu Maduabum
+Author: Kenechukwu Maduabum
 Date: May 3th, 2024
 Description:
-Implemented a Database Application for allowing multiple users organize and track the anime they watch 
-using MySQL and Python. The "tkinter" package of python is also to implement a GUI for the application.
+Implemented a Database Application for allowing multiple users organize and track the anime they watch using MySQL RDBMS and 
+Python programming language. The "tkinter" and "sv_ttk" packages of python are also to implement a GUI for the application.
 """
 
 import tkinter
