@@ -1,5 +1,5 @@
 """
-Author: Kenechukeu Maduabum
+Author: Kenechukwu Maduabum
 Date: May 3th, 2024
 Description:
 This file contains everything necessary to create the schema for the 
