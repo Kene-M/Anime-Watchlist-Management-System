@@ -15,7 +15,7 @@
 5. Run "databaseSetup.py" through the command line (This file contains everything necessary to create the schema for the database and tables along with inserting some rows into the necessary tables):
     1. Type - *cd path/to/directory/containing/file*
     2. Type - *python databaseSetup.py*
-6. Install the sv_ttk package for tkinter through the command line (This is the package used by the source code to create the dark-themed modern GUI):
+6. Install the sv_ttk package through the command line (This is a package that uses tkinter, and is used by the source code to create the dark-themed modern GUI):
     1. Type - *pip install sv-ttk*
 7. Run "animeWatchlistApp.py" through the command line (This is the source code for the database application itself):
     1. Type - *cd path/to/directory/containing/file*
@@ -36,7 +36,7 @@
 - Manage tkinter Toplevel windows better (through dropping current window and raising a new one) or implement a better way to transition between windows/pages.
 - Add scrollbars to each listbox in the search page.
   - Change some filter options to single selection, comboboxes instead of listboxes.
-- Fix bug with filtering with options other than genres.
+- Fix bug concerning filtering with options other than genres.
 - Research more efficient algorithms and queries for functions.
-- Add more class and functions to organize code.
+- Add more classes and functions to organize code.
 - Research ways of automating the process of filling tables. Maybe through web scraping?
