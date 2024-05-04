@@ -1,6 +1,6 @@
 # Anime-Watchlist-Management-System (AWMS)
 
-**Description:** Implemented a Database Application for allowing multiple users organize and track the anime they watch using MySQL databse and Python programming language. The "tkinter" and "sv_ttk" packages of python are also to implement a GUI for the application.
+**Description:** Implemented a Database Application for allowing multiple users organize and track the anime they watch using MySQL RDBMS and Python programming language. The "tkinter" and "sv_ttk" packages of python are also to implement a GUI for the application.
 
 **Created By:** Kene Maduabum.
 
