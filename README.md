@@ -41,3 +41,10 @@
 - Research more efficient algorithms and queries for functions.
 - Add more classes and functions to organize code.
 - Research ways of automating the process of filling tables. Maybe through web scraping?
+
+**NOTES**
+- Installing pyqt6:
+  - Type - *pip3 install pyqt6*
+- Installing qt designer:
+  - pip install pyqt6-tools
+  - pyqt6-tools designer
