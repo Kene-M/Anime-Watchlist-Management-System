@@ -42,9 +42,7 @@
 - Add more classes and functions to organize code.
 - Research ways of automating the process of filling tables. Maybe through web scraping?
 
-**NOTES**
-- Installing pyqt6:
+**Notes on pyqt6**
+- Install pyqt6 through the command line:
   - Type - *pip3 install pyqt6*
-- Installing qt designer:
-  - pip install pyqt6-tools
-  - pyqt6-tools designer
+- Qt Designer to drag and drop widgets + generate py codes of the window.
