@@ -46,6 +46,8 @@
 - Install pyqt6 through the command line:
   - Type - *pip3 install pyqt6*
 - Install Qt Designer to drag and drop widgets + generate py codes of the window.
+- Install the qdarktheme package through the command line
+  - Type - *pip install pyqtdarktheme*
 - How to convert .ui file (from Qt Designer) to .py file: 
   - Type - *cd path/to/directory/containing/.uifile*
   - Type - *python -m PyQt6.uic.pyuic filename.ui -o newFilename.py*
