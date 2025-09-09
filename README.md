@@ -1,6 +1,8 @@
 # Anime-Watchlist-Management-System (AWMS)
 
-**Description:** Implemented a Database Application for allowing multiple users organize and track the anime they watch using MySQL RDBMS and Python programming language. The "tkinter" and "sv_ttk" packages of python are also to implement a GUI for the application.
+**Note: "tempAnimeApp.py is the PyQt6 version of the tkinter 'animeWatchlistApp.py' implementation"**
+
+**Description:** Implemented a GUI Application that utilizes a backend database for allowing multiple users organize and track the anime they watch using MySQL RDBMS and Python programming language. The "tkinter" and "sv_ttk" packages of python are used to implement a GUI for the application in the first version. The second version utilizes the "pyqt6" and "pyqtdarktheme" libraries alongside Qt designer for a more modern GUI implementation.
 
 **Created By:** Kene Maduabum.
 
@@ -51,3 +53,4 @@
 - How to convert .ui file (from Qt Designer) to .py file: 
   - Type - *cd path/to/directory/containing/.uifile*
   - Type - *python -m PyQt6.uic.pyuic filename.ui -o newFilename.py*
+- When running this project, be sure to have the .ui and associated .py files generated and in the same directory.
