@@ -18,7 +18,7 @@ from datetime import date # For fetching today's day.
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="yourpassword"
+    password="Kene1234"
 )
 
 # preparing a cursor object
